@@ -47,4 +47,16 @@
         android:inputType="textPassword"
         android:text="haslo1" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="ZATWIERDŹ" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Witaj ewa@poczta.pl" />
+
 </LinearLayout>
